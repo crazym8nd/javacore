@@ -4,26 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f77332c0-97b7-4801-a514-c76e7eb112af" name="Changes" comment="in the work 1">
+    <list default="true" id="f77332c0-97b7-4801-a514-c76e7eb112af" name="Changes" comment="in the work 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/BitLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/BoolLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/ByteShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/ByteUShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/HexByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/IncDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/Modilus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/MultByTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/OpBitEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/OpEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/Ternary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/AutoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/AutoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/BoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/BoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/CharDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/CharDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/CharDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/CharDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/DynInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/DynInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/LifeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/LifeTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Promote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Promote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/ThreeDMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/ThreeDMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/TwoDAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/TwoDAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Chapter03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/Chapter04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/BasicMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter05/Chapter05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter05/IFElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +88,13 @@
       <recent name="java.com.vitaly.javacore.chapter05" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Area">
-    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter03.Area" />
+  <component name="RunManager" selected="Application.IFElse">
+    <configuration name="BoolLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter04.BoolLogic" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter03.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter03.Array" />
+    <configuration name="ByteUShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter04.ByteUShift" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter03.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Light" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter03.Light" />
+    <configuration name="IFElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter05.IFElse" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter03.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter03.Matrix" />
+    <configuration name="OpBitEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter04.OpBitEquals" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter03.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeDMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter03.ThreeDMatrix" />
+    <configuration name="Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter04.Ternary" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter03.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Area" />
-        <item itemvalue="Application.Light" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.ThreeDMatrix" />
-        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.IFElse" />
+        <item itemvalue="Application.Ternary" />
+        <item itemvalue="Application.BoolLogic" />
+        <item itemvalue="Application.OpBitEquals" />
+        <item itemvalue="Application.ByteUShift" />
       </list>
     </recent_temporary>
   </component>
@@ -202,14 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694531810809</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="in the work 2">
+      <option name="closed" value="true" />
+      <created>1694532271741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694532271741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="template for project JavaCore" />
     <MESSAGE value="in the work 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="in the work 1" />
+    <MESSAGE value="in the work 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="in the work 2" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
