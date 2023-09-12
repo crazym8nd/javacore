@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f77332c0-97b7-4801-a514-c76e7eb112af" name="Changes" comment="template for project JavaCore">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter03/Chapter03.java" afterDir="false" />
+    <list default="true" id="f77332c0-97b7-4801-a514-c76e7eb112af" name="Changes" comment="in the work 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/AutoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/BlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/BoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/CharDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/CharDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/DynInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/IfSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/LifeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Promote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/ThreeDMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/TwoDAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter02/TwoDArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter02/Chapter02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter03/Chapter03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter04/Chapter04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter04/Chapter04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter05/Chapter05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter05/Chapter05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter06/Chapter06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/Chapter06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter07/Chapter07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/Chapter07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter08/Chapter08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter08/Chapter08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/vitaly/javacore/chapter09/Chapter09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter09/Chapter09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +41,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "crazym8nd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;crazym8nd&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -47,9 +62,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2VFXfObDyrbqrUVRkAtUHkqGdE0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,8 +81,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "D:/projects/javacore/src/Main.java"
+    "git-widget-placeholder": "inthework",
+    "onboarding.tips.debug.path": "D:/projects/javacore/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,20 +96,81 @@
       <recent name="java.com.vitaly.javacore.chapter05" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter02.Array" />
       <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter02.Matrix" />
       <module name="JavaCore" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeDMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter02.ThreeDMatrix" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter02.TwoDAgain" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter02.TwoDArray" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.ThreeDMatrix" />
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.TwoDAgain" />
+        <item itemvalue="Application.TwoDArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -111,11 +189,22 @@
       <option name="project" value="LOCAL" />
       <updated>1694433436141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="template for project JavaCore">
+      <option name="closed" value="true" />
+      <created>1694435770542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694435770542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="template for project JavaCore" />
-    <option name="LAST_COMMIT_MESSAGE" value="template for project JavaCore" />
+    <MESSAGE value="in the work 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="in the work 1" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
