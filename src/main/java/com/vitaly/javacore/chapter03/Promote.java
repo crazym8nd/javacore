@@ -1,4 +1,4 @@
-package main.java.com.vitaly.javacore.chapter02;
+package main.java.com.vitaly.javacore.chapter03;
 
 public class Promote {
     public static void main(String[] args) {
