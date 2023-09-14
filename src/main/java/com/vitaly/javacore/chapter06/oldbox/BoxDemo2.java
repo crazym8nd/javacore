@@ -1,10 +1,10 @@
-package main.java.com.vitaly.javacore.chapter06;
+package main.java.com.vitaly.javacore.chapter06.oldbox;
 
 
 public class BoxDemo2 {
     public static void main(String[] args) {
-        Box mybox1 = new Box();
-        Box mybox2 = new Box();
+        OldBox mybox1 = new OldBox();
+        OldBox mybox2 = new OldBox();
         double vol;
         mybox1.width = 10;
         mybox1.height = 20;

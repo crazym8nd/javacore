@@ -1,13 +1,16 @@
-package main.java.com.vitaly.javacore.chapter06;
+package main.java.com.vitaly.javacore.chapter06.oldbox;
 
-class Box {
+class OldBox {
     double width;
     double height;
     double depth;
+    double volume(){
+        return width * height * depth;
+    }
 }
 public class BoxDemo {
     public static void main(String[] args) {
-    Box mybox = new Box();
+    OldBox mybox = new OldBox();
     double vol;
     mybox.width = 10;
     mybox.height = 20;
