@@ -4,19 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f77332c0-97b7-4801-a514-c76e7eb112af" name="Changes" comment="in the work 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/BoxDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/BoxDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/BoxDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/BoxNoConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/TestStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/oldbox/BoxDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/oldbox/BoxDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f77332c0-97b7-4801-a514-c76e7eb112af" name="Changes" comment="start of chapter 7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/CallByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/InnderClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/Overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/Overload1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/OverloadCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/OverloadCons2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/PassArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/PassOb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/PassObjRe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/REcursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/Recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/RetOb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/StaticByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/StringDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/UseStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/VarArgs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/VarArgs3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/BoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/oldbox/BoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/BoxDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter06/oldbox/BoxDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vitaly/javacore/chapter07/Chapter07.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +99,14 @@
       <recent name="java.com.vitaly.javacore.chapter05" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestStack">
-    <configuration name="BoxDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter06.oldbox.BoxDemo3" />
+  <component name="RunManager" selected="Application.VarArgs3">
+    <configuration name="CommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter07.CommandLine" />
       <module name="JavaCore" />
+      <option name="PROGRAM_PARAMETERS" value="this is а test 100 -1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter06.oldbox.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter06.oldbox.BoxDemo4" />
+    <configuration name="PassArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter07.PassArray" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter06.oldbox.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter06.BoxDemo6" />
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter07.VarArgs" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter06.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter06.BoxDemo7" />
+    <configuration name="VarArgs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter07.VarArgs2" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter06.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter06.TestStack" />
+    <configuration name="VarArgs3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.vitaly.javacore.chapter07.VarArgs3" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter06.*" />
+          <option name="PATTERN" value="main.java.com.vitaly.javacore.chapter07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestStack" />
-        <item itemvalue="Application.BoxDemo7" />
-        <item itemvalue="Application.BoxDemo6" />
-        <item itemvalue="Application.BoxDemo3" />
-        <item itemvalue="Application.BoxDemo4" />
+        <item itemvalue="Application.VarArgs3" />
+        <item itemvalue="Application.VarArgs2" />
+        <item itemvalue="Application.VarArgs" />
+        <item itemvalue="Application.PassArray" />
+        <item itemvalue="Application.CommandLine" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694532271741</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="start of chapter 7">
+      <option name="closed" value="true" />
+      <created>1694692804851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694692804851</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +233,8 @@
     <MESSAGE value="template for project JavaCore" />
     <MESSAGE value="in the work 1" />
     <MESSAGE value="in the work 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="in the work 2" />
+    <MESSAGE value="start of chapter 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="start of chapter 7" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
