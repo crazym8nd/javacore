@@ -1,0 +1,18 @@
+package main.java.com.vitaly.javacore.chapter06;
+
+public class BoxNoConstructor {
+    double width;
+    double height;
+    double depth;
+
+    double volume() {
+        return width * height * depth;
+    }
+
+    void setDim(double w, double h, double d) {
+        width = w;
+        height = h;
+        depth = d;
+    }
+
+}
