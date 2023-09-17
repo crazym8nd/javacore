@@ -12,10 +12,10 @@ public class Menu {
             System.out.println("    5.for\n");
             System.out.print("выберите нужный пункт:");
             choice = (char) System.in.read();
-        }while (choice < '1' || choice > '5');
+        } while (choice < '1' || choice > '5');
         System.out.println("\n");
 
-        switch(choice){
+        switch (choice) {
             case '1':
                 System.out.println("if:\n");
                 System.out.println("if(условие) оператор");

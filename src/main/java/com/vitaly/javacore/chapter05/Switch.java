@@ -2,9 +2,9 @@ package main.java.com.vitaly.javacore.chapter05;
 
 public class Switch {
     public static void main(String[] args) {
-        int month =4;
+        int month = 4;
         String season;
-        switch(month){
+        switch (month) {
             case 12:
             case 1:
             case 2:

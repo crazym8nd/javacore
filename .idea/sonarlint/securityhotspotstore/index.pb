@@ -87,3 +87,15 @@ l
 <src/main/java/com/vitaly/javacore/chapter08/CallingCons.java,e\9\e9f0d23b99b9d7712f5957160848b5fe6addd520
 i
 9src/main/java/com/vitaly/javacore/chapter08/Override.java,0\1\01a12c4fc18987beb6ed673d2d4f6295770c6bd5
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+i
+9src/main/java/com/vitaly/javacore/chapter08/Dispatch.java,9\9\99a0aecfa6d17888dfb1d2019196c5fbc04b7364
+j
+:src/main/java/com/vitaly/javacore/chapter08/FindAreas.java,1\0\106d4dbc802e4b91536a8ce69d33fff14097a755
+m
+=src/main/java/com/vitaly/javacore/chapter08/AbstractDemo.java,b\d\bdda0a24deb8ded5b5eecaa6ac8500c180fca64d
+n
+>src/main/java/com/vitaly/javacore/chapter08/AbstractAreas.java,2\8\28b77a337eacb219a4b89e7007c987c2bfdf91de
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

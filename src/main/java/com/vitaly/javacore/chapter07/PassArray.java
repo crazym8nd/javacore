@@ -1,9 +1,9 @@
 package main.java.com.vitaly.javacore.chapter07;
 
 class PassArray {
-    static void vaTest(int[] v){
+    static void vaTest(int[] v) {
         System.out.print("Количества аргументов: " + v.length + " Содержимое: ");
-        for(int x:v)
+        for (int x : v)
             System.out.print(x + " ");
         System.out.println();
     }
@@ -11,7 +11,7 @@ class PassArray {
     public static void main(String[] args) {
         int[] n1 = {10};
         int[] n2 = {1, 2, 3};
-        int[] n3 = { };
+        int[] n3 = {};
         vaTest(n1);
         vaTest(n2);
         vaTest(n3);

@@ -1,9 +1,9 @@
 package main.java.com.vitaly.javacore.chapter07;
 
 class VarArgs2 {
-    static void vaTest(String msg, int ... v){
+    static void vaTest(String msg, int... v) {
         System.out.print(msg + v.length + " Содержимое: ");
-        for(int x : v)
+        for (int x : v)
             System.out.print(x + " ");
         System.out.println();
     }

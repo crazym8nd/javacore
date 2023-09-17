@@ -8,61 +8,68 @@ class Box88 {
     double depth;
 
     Box88(Box88 ob) {
-        width =ob.width;
-        height =ob.height;
-        depth =ob.depth;
+        width = ob.width;
+        height = ob.height;
+        depth = ob.depth;
     }
+
     Box88(double w, double h, double d) {
 
-        width =w;
-        height =h;
-        depth =d;
+        width = w;
+        height = h;
+        depth = d;
     }
+
     Box88() {
 
-        width =-1;
-        height =-1;
-        depth =-1;
+        width = -1;
+        height = -1;
+        depth = -1;
     }
-    Box88 (double len){
+
+    Box88(double len) {
         width = height = depth = len;
     }
-    double volume(){
-        return width*height*depth;
+
+    double volume() {
+        return width * height * depth;
     }
 }
+
 class BoxWeight8 extends Box88 {
     double weight;
 
-    BoxWeight8(BoxWeight8 ob){
+    BoxWeight8(BoxWeight8 ob) {
         super(ob);
         weight = ob.weight;
     }
-    BoxWeight8(double w, double h, double d, double m){
-        super(w,h,d);
+
+    BoxWeight8(double w, double h, double d, double m) {
+        super(w, h, d);
         weight = m;
     }
-    BoxWeight8(){
+
+    BoxWeight8() {
         super();
         weight = -1;
     }
-    BoxWeight8(double len, double m){
+
+    BoxWeight8(double len, double m) {
         super(len);
         weight = m;
     }
 }
 
 
-
 public class DemoSuper {
     public static void main(String[] args) {
-BoxWeight8 mybox1 = new BoxWeight8(10,20,15,34.3);
-BoxWeight8 mybox2 = new BoxWeight8(2,3,4,0.076);
-BoxWeight8 mybox3 = new BoxWeight8();
-BoxWeight8 mycube = new BoxWeight8(3,2);
-BoxWeight8 myclone = new BoxWeight8(mybox1);
-double vol;
-vol = mybox1.volume();
+        BoxWeight8 mybox1 = new BoxWeight8(10, 20, 15, 34.3);
+        BoxWeight8 mybox2 = new BoxWeight8(2, 3, 4, 0.076);
+        BoxWeight8 mybox3 = new BoxWeight8();
+        BoxWeight8 mycube = new BoxWeight8(3, 2);
+        BoxWeight8 myclone = new BoxWeight8(mybox1);
+        double vol;
+        vol = mybox1.volume();
         System.out.println("Объем mybox1 равен " + vol);
         System.out.println("Вес mybox1 равен " + mybox1.weight);
         System.out.println();

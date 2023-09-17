@@ -4,10 +4,12 @@ public class BoxNoConstructor {
     double width;
     double height;
     double depth;
-    double volume(){
+
+    double volume() {
         return width * height * depth;
     }
-    void setDim(double w, double h, double d){
+
+    void setDim(double w, double h, double d) {
         width = w;
         height = h;
         depth = d;

@@ -5,12 +5,13 @@ class Box {
     double height;
     double depth;
 
-    Box(double w, double h, double d){
-        width= w;
+    Box(double w, double h, double d) {
+        width = w;
         height = h;
         depth = d;
     }
-    double volume(){
+
+    double volume() {
         return width * height * depth;
     }
 }

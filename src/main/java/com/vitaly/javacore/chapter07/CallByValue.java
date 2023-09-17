@@ -1,11 +1,12 @@
 package main.java.com.vitaly.javacore.chapter07;
 
 class Test1 {
-    void meth(int i, int j){
-        i*=2;
-        j/=2;
+    void meth(int i, int j) {
+        i *= 2;
+        j /= 2;
     }
 }
+
 class CallByValue {
     public static void main(String[] args) {
         Test1 ob = new Test1();

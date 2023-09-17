@@ -1,20 +1,23 @@
 package main.java.com.vitaly.javacore.chapter08;
 
-class Ad{
-    void callme(){
+class Ad {
+    void callme() {
         System.out.println("В методе callme() из класса Ad");
     }
 }
-class Bd extends Ad{
-    void callme(){
+
+class Bd extends Ad {
+    void callme() {
         System.out.println("В методе callme() из класса Bd");
     }
 }
-class Cd extends Ad{
-    void callme(){
+
+class Cd extends Ad {
+    void callme() {
         System.out.println("В методе callme() из класса Cd");
     }
 }
+
 class Dispatch {
     public static void main(String[] args) {
         Ad a = new Ad();
@@ -28,7 +31,7 @@ class Dispatch {
         r = b;
         r.callme();
 
-        r=c;
+        r = c;
         r.callme();
     }
 }

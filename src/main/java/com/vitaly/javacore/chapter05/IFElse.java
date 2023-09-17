@@ -6,7 +6,7 @@ public class IFElse {
         String season;
         if (month == 12 || month == 1 || month == 2)
             season = "зиме";
-        else if(month == 3 || month == 4 || month == 5)
+        else if (month == 3 || month == 4 || month == 5)
             season = "весне";
         else if (month == 6 || month == 7 || month == 8)
             season = "лету";

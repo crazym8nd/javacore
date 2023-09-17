@@ -12,7 +12,7 @@ public class Matrix {
         for (i = 0; i < 4; i++) {
             for (j = 0; j < 4; j++)
                 System.out.print(m[i][j] + " ");
-                System.out.println();
+            System.out.println();
 
         }
     }

@@ -4,20 +4,24 @@ class Boxx {
     double width;
     double height;
     double depth;
-    Boxx(double w, double h, double d){
+
+    Boxx(double w, double h, double d) {
         width = w;
         height = h;
         depth = d;
     }
-    Boxx(){
+
+    Boxx() {
         width = -1;
         height = -1;
         depth = -1;
     }
-    Boxx(double len){
-       width = height = depth = len;
+
+    Boxx(double len) {
+        width = height = depth = len;
     }
-    double volume(){
+
+    double volume() {
         return width * height * depth;
     }
 

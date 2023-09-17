@@ -1,16 +1,19 @@
 package main.java.com.vitaly.javacore.chapter07;
 
-class Testt{
+class Testt {
     public int b;
     int a;
     private int c;
-    void setc(int i){
+
+    void setc(int i) {
         c = i;
     }
-    int getc(){
+
+    int getc() {
         return c;
     }
 }
+
 public class AccessTest {
     public static void main(String[] args) {
         Testt ob = new Testt();

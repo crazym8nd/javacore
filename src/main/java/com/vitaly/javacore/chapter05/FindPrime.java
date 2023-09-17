@@ -6,16 +6,15 @@ public class FindPrime {
         boolean isPrime;
 
         num = 14;
-        if(num<2) isPrime = false;
-        else isPrime = true;
+        isPrime = num >= 2;
 
-        for(int i=2; i<= num/i; i++){
-            if((num% i) ==0){
+        for (int i = 2; i <= num / i; i++) {
+            if ((num % i) == 0) {
                 isPrime = false;
                 break;
             }
         }
-        if(isPrime) System.out.println("простое число");
+        if (isPrime) System.out.println("простое число");
         else System.out.println("Не простое число");
     }
 }
